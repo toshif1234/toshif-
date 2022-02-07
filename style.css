@@ -691,3 +691,6 @@ nav{
     background-image: linear-gradient(to right , rgb(95, 25, 160) ,rgb(53, 20, 131) ,rgb(21, 97, 168));
     width: 100%;
 }
+#custum-btn{
+    background-image: linear-gradient(to right , rgb( 95, 25, 160) ,rgb(53, 20, 131));
+}    
