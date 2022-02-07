@@ -692,5 +692,7 @@ nav{
     width: 100%;
 }
 #custum-btn{
-    background-image: linear-gradient(to right , rgb( 95, 25, 160) ,rgb(53, 20, 131));
-}    
+    background-image: linear-gradient(to right , rgb(95, 25, 160) ,rgb(226, 21, 147) );
+    border: #111;
+    border-radius: 20px;
+}   
